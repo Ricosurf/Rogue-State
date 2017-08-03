@@ -1,0 +1,577 @@
+ion-content {
+  text-align: center;
+}
+
+.apresentacao {
+  background-color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.apresentacao img {
+  margin-top: 200px;
+}
+
+.botao-apresentacao {
+
+}
+
+.opcoes {
+  color: white;
+  background-color: black;
+}
+.opcoes p {
+  margin-top: 155px;
+}
+
+.botao-opcoes {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.opmilitary {
+  color: white;
+  background-color: black;
+}
+
+.opmilitary p {
+  margin-top: 160px;
+}
+
+.botao-opmilitary {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.opintel {
+  color: white;
+  background-color: black;
+}
+
+.opintel p {
+  margin-top: 160px;
+}
+
+.botao-opintel {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.opcivil {
+  color: white;
+  background-color: black;
+}
+
+.opcivil p {
+  margin-top: 160px;
+}
+
+.botao-opcivil {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+ng-map {
+  height: 430px;
+}
+
+/*CSS ARMY ===================================================================*/
+/*CAPA*/
+
+.capa-army {
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../img/army.png');
+}
+
+.botao-capa-army {
+  margin-top: 515px;
+}
+
+
+/*CSS NAVY ===================================================================*/
+/*CAPA*/
+
+.capa-navy {
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../img/navy.png');
+}
+
+.botao-capa-navy {
+  margin-top: 515px;
+}
+
+
+/*CSS Ricardo ================================================================*/
+
+/*INTRO*/
+p{
+  font-family: 'Russo One', sans-serif;
+  font-size: 22px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 30px;
+  padding: 10,0,10,0;
+}
+
+.testomapaRicardo{
+  font-size: 15px;
+}
+
+.intro-ricardo {
+  color: white;
+  background-color: black;
+}
+
+.intro-ricardo p {
+  margin-top: 250px;
+}
+
+.botao-intro-ricardo {
+  margin-top: 50px;
+}
+
+.button.button-balanced{
+  background-color: #1949c4;
+  width: 300px;
+  font-family: 'Russo One', sans-serif;
+  text-shadow: black 2px 2px;
+
+}
+
+.capa-ricardo {
+  background-image: url('../img/capacete.jpg');
+}
+
+.botao-capa-ricardo {
+  margin-top: 515px;
+}
+
+.telar1{
+  background-image: url("../img/ritela01.jpg");
+  background-size: 100%;
+}
+
+.botao-telar1-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar1-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar2{
+  background-image: url("../img/ritela02.jpg");
+  background-size: 100%;
+}
+
+.botao-telar2-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar2-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar3{
+  background-image: url("../img/ritela03.jpg");
+  background-size: 100%;
+}
+
+.botao-telar3-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar3-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar4{
+  background-image: url("../img/ritela04.jpg");
+  background-size: 100%;
+}
+
+.botao-telar4-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar4-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar5{
+  background-image: url("../img/ritela05.jpg");
+  background-size: 100%;
+}
+
+.botao-telar5-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar5-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar6{
+  background-image: url("../img/ritela06.jpg");
+  background-size: 100%;
+}
+
+.botao-telar6-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar6-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar7{
+  background-image: url("../img/ritela07.jpg");
+  background-size: 100%;
+}
+
+.botao-telar7-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar7-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar8{
+  background-image: url("../img/ritela08.jpg");
+  background-size: 100%;
+}
+
+.botao-telar8-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar8-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar9{
+  background-image: url("../img/ritela09.jpg");
+  background-size: 100%;
+}
+
+.botao-telar9-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar9-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar10{
+  background-image: url("../img/ritela10.jpg");
+  background-size: 100%;
+}
+
+.botao-telar10-1.animated.flash{
+  margin-top: 280px;
+}
+
+.botao-telar10-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar11{
+  background-image: url("../img/ritela11.jpg");
+  background-size: 100%;
+}
+
+.botao-telar11-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar11-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar12{
+  background-image: url("../img/ritela12.jpg");
+  background-size: 100%;
+}
+
+.botao-telar12-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar12-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar13{
+  background-image: url("../img/ritela13.jpg");
+  background-size: 100%;
+}
+
+.botao-telar13-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar13-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar14{
+  background-image: url("../img/ritela14.jpg");
+  background-size: 100%;
+}
+
+.botao-telar14-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar14-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar15{
+  background-image: url("../img/ritela15.jpg");
+  background-size: 100%;
+}
+
+.botao-telar15-1.animated.flash{
+  margin-top: 310px;
+}
+
+.botao-telar15-2.animated.flash{
+ margin-top: 15px;
+}
+
+.telar16{
+  background-image: url("../img/ritela16.jpg");
+  background-size: 100%;
+}
+
+.botao-telar16-1.animated.flash{
+  margin-top: 380px;
+}
+
+.telar17{
+  background-image: url("../img/ritela17.jpg");
+  background-size: 100%;
+}
+
+.botao-telar17-1.animated.flash{
+  margin-top: 380px;
+}
+
+.telar18{
+  background-image: url("../img/ritela18.jpg");
+  background-size: 100%;
+}
+
+.botao-telar18-1.animated.flash{
+  margin-top: 380px;
+}
+
+.telar19{
+  background-image: url("../img/ritela19.jpg");
+  background-size: 100%;
+}
+
+.botao-telar19-1.animated.flash{
+  margin-top: 380px;
+}
+
+.telar20{
+  background-image: url("../img/ritela20.jpg");
+  background-size: 100%;
+}
+
+.botao-telar20-1.animated.flash{
+  margin-top: 380px;
+}
+
+.telar21{
+  background-image: url("../img/ritela21.jpg");
+  background-size: 100%;
+}
+
+.botao-telar21-1.animated.flash{
+  margin-top: 380px;
+}
+
+.telar22{
+  background-image: url("../img/ritela22.jpg");
+  background-size: 100%;
+}
+
+.botao-telar22-1.animated.flash{
+  margin-top: 380px;
+}
+
+.telar23{
+  background-image: url("../img/ritela23.jpg");
+  background-size: 100%;
+}
+
+.botao-telar23-1.animated.flash{
+  margin-top: 380px;
+}
+
+/*CAPA*/
+
+.capa-ricardo {
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../img/airforce.png');
+}
+
+.botao-capa-ricardo {
+  margin-top: 515px;
+}
+
+/*MAPA*/
+
+.maparicardo{
+  color: white;
+  background-color: black;
+}
+
+.maparicardo p {
+  margin-top: 15px;
+  margin-left: 15px;
+  text-align: left;
+}
+/*CSS Igor ===================================================================*/
+.capa-igor {
+  background-image: url('../img/coreia.jpg');
+}
+
+.botao-capa-igor {
+  margin-top: 515px;
+}
+
+/*CSS Hacker =================================================================*/
+.capa-hacker {
+  background-image: url('../img/hacker.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+}
+
+.botao-capa-hacker {
+  margin-top: 515px;
+}
+
+/*CSS Rebel ==================================================================*/
+.capa-rebel {
+  background-image: url('../img/rebel.jpg');
+}
+
+.botao-capa-rebel {
+  margin-top: 515px;
+}
+
+/*CSS Journal ================================================================*/
+/*CAPA*/
+.capa-jornal {
+  background-image: url('../img/journal.jpg');
+}
+
+.botao-capa-jornal {
+  margin-top: 515px;
+}
+
+/*INTRO*/
+.intro-jornal {
+  color: white;
+  background-color: black;
+}
+
+.intro-jornal p {
+  margin-top: 250px;
+}
+
+.botao-intro-jornal {
+  margin-top: 50px;
+}
+
+/*MAPA*/
+
+.mapa-jornal {
+  color: white;
+  background-color: black;
+}
+
+.mapa-jornal p {
+  margin-top: 15px;
+  margin-left: 15px;
+  text-align: left;
+}
+
+/*JORNAL1*/
+
+.jornal1 {
+  color: white;
+  /*text-shadow: 2px 2px black;*/
+  background-color: #000039;
+  background-image: url('../img/cam.jpg');
+  background-repeat: no-repeat;
+}
+
+.jornal1 p {
+  margin: 20px;
+}
+
+.botao-jornal1-1 {
+  margin-top: 460px;
+}
+
+.botao-jornal1-2 {
+  margin-top: 15px;
+}
+
+/*JORNAL2*/
+
+.jornal2 {
+  color: white;
+  text-shadow: 2px 2px black;
+  background-color: black;
+  background-image: url('../img/battery.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.jornal2 p {
+  margin-top: 120px;
+}
+
+.botao-jornal2-1 {
+  margin-top: 320px;
+}
+
+.botao-jornal2-2 {
+  margin-top: 15px;
+}
+
+/*JORNAL3*/
+
+.jornal3 {
+  color: white;
+  text-shadow: 2px 2px black;
+  background-color: white;
+  background-image: url('../img/hemo.jpg');
+  background-repeat: no-repeat;
+}
+
+.jornal3 p {
+  margin-top: 190px;
+}
+
+.botao-jornal3-1 {
+  margin-top: 200px;
+}
+
+.botao-jornal3-2 {
+  margin-top: 15px;
+}
